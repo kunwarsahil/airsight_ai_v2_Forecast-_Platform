@@ -220,7 +220,7 @@ The system is architected for horizontal scalability:
 
 ## 👥 Credits
 
-Developed by **Kunal, Sujal & Tikendra** for **India Innovates 2026** 🇮🇳
+Developed by **Kunal,Kunwar Sahil, Sujal & Tikendra** for **India Innovates 2026** 🇮🇳
 
 ---
 
